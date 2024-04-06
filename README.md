@@ -21,9 +21,14 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program
-
-
+```
+Developed by: Divya P
+Register Number: 212223040044
+```
 ## Output :
+
+
+![WhatsApp Image 2024-04-06 at 10 57 40_0d8976cd](https://github.com/DivyaP0110/Muttiple-capacity-with-infinite-capacity/assets/144870891/0b3fcc2e-3d91-4022-8e04-0794547941ab)
 
 ## Result : 
 
